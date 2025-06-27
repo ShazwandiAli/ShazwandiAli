@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @ShazwandiAli
-- 👀 I’m interested in Software engineering, Machine Leaning, Web Development
-- 🌱 I’m currently learning Applied Artificial AI (Temasek Polytechnic)
-- 📫 How to reach me shazwandiali@gmail.com
+# 👋 Hey there, I’m Shazwandi Ali
 
-<!---
-ShazwandiAli/ShazwandiAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Developer with a strong interest in building meaningful tech — from clean frontends to efficient backends and practical AI applications.
+
+## 🔍 What I’m into
+- 💻 Software Engineering  
+- 🌐 Full-Stack Web Development (especially WordPress & PHP systems)  
+- 🤖 Machine Learning & Applied AI
+
+## 🎓 Background
+- Diploma in Applied Artificial Intelligence — Temasek Polytechnic  
+- Real-world experience with:
+  - WordPress plugin customization & database logic
+  - LearnDash LMS integration for educational platforms
+  - Backend API work (PHP, MySQL, AJAX)
+  - Freelance + startup collaboration
+
+## 🧠 Currently
+- Sharpening my skills through freelance dev work  
+- Exploring work-study opportunities to level up in Full Stack or Data Science  
+- Building a future I won’t need a vacation from
+
+## 📫 Let’s Connect
+Email: **shazwandiali@gmail.com**  
+Open to freelance gigs, full-time roles, or just geeking out over cool tech.
+
+---
+
+*“Built on grit, curiosity, and way too much iced coffee.”*
